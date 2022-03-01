@@ -1,4 +1,4 @@
 # Sql-assignment-
 
 overview of Company database
-![image](file:///C:/Users/Vanshika/Downloads/Case%20study.png)
+![image](https://drive.google.com/file/d/1BFsXaKKhPTKoXQqsNz1cf3j6h4MVszFH/view?usp=sharing)
